@@ -13,7 +13,7 @@ const Navbar = () => {
           <div className="flex items-center">
             <Link to="/" className="flex items-center space-x-2">
               <img 
-                src="https://developers.google.com/static/profile/badges/events/studies/gdg/images/gdg-logo.svg" 
+                src="/lovable-uploads/fe4157d9-cc0a-4664-b68f-de38388a6874.png" 
                 alt="Google Developer Groups Logo" 
                 className="h-10" 
               />

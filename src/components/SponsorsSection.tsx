@@ -5,32 +5,32 @@ const SponsorsSection = () => {
   const sponsors = [
     {
       name: "Rotaract",
-      logo: "https://upload.wikimedia.org/wikipedia/en/8/89/Rotary_International_Logo_2013.svg", // Placeholder
+      logo: "/lovable-uploads/c5d0bde0-ca3c-4ae5-8735-29d24b8feca2.png",
       link: "https://rotaract.org/"
     },
     {
       name: "Unstop",
-      logo: "https://d8it4huxumps7.cloudfront.net/uploads/images/unstop/branding-guidelines/icon/unstop-icon-white-background.png", // Placeholder
+      logo: "/lovable-uploads/9a52f90d-c538-44a0-be6c-9aed847cafb4.png",
       link: "https://unstop.com/"
     },
     {
       name: "Dev Community",
-      logo: "https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg", // Placeholder
+      logo: "/lovable-uploads/074108f6-5bd2-4395-9b57-b93db008d165.png",
       link: "https://dev.to/"
     },
     {
       name: "Sprint",
-      logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sprint_Corporation_logo.svg/1200px-Sprint_Corporation_logo.svg.png", // Placeholder
+      logo: "/lovable-uploads/066dc7f5-a799-46d2-b951-602fc5ac4af9.png",
       link: "https://sprint.com/"
     },
     {
       name: "Interview Buddy",
-      logo: "https://interviewbuddy.in/assets/img/interview-buddy-logo.svg", // Placeholder
+      logo: "/lovable-uploads/0c6f2544-0610-49d9-8d29-e10106ff6884.png",
       link: "https://interviewbuddy.in/"
     },
     {
       name: "Codecrafter",
-      logo: "https://cdn.iconscout.com/icon/free/png-256/free-code-coding-web-development-logo-programming-c-lettering-3d-7596.png", // Placeholder
+      logo: "/lovable-uploads/ddbd6401-b23c-4b52-8590-16142b2983d3.png",
       link: "https://codecrafter.dev/"
     }
   ];
