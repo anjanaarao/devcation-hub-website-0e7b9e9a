@@ -8,6 +8,7 @@ This project is my submission for the **Gemini AI Interface Revamp Challenge**. 
 - **CSS**
 - **Tailwind CSS**
 - **Bootstrap** (components and styles generated through Gemini AI prompting)
+- **TypeScript** (for type safety and better development experience)
 
 ## 🧠 My Approach  
 - I crafted and refined prompts to generate clean, reusable UI components using **Gemini AI**.  
