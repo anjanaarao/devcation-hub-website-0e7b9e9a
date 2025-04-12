@@ -6,22 +6,22 @@ const MentorsSection = () => {
   const firstRowMentors = [
     {
       name: "Radhika Bansal",
-      image: "/lovable-uploads/5452a38a-b981-4cea-8fda-fef572dddf50.png",
+      image: "/lovable-uploads/37705ffe-ddc2-41a1-b789-17bddc476162.png",
       linkedin: "https://linkedin.com/in/radhikabansal"
     },
     {
       name: "Sanidhya Goel",
-      image: "/lovable-uploads/da954f7f-346d-4a39-ae17-908803fd3db2.png",
+      image: "/lovable-uploads/a3313692-9611-48fd-8d92-d88af8516942.png",
       linkedin: "https://linkedin.com/in/sanidhyagoel"
     },
     {
       name: "Tejaswi Tyagi",
-      image: "/lovable-uploads/1faf807e-c2c5-442d-8b93-970993007863.png",
+      image: "/lovable-uploads/84d21aae-c70b-4dfe-b6d5-c75853c780ed.png",
       linkedin: "https://linkedin.com/in/tejaswityagi"
     },
     {
       name: "Akanksha Jha",
-      image: "/lovable-uploads/b607272d-8584-436b-af15-75fbc3c57e74.png",
+      image: "/lovable-uploads/9e132ccb-d793-4a02-8208-69e2ba4d1df7.png",
       linkedin: "https://linkedin.com/in/akankshajha"
     }
   ];
@@ -29,22 +29,22 @@ const MentorsSection = () => {
   const secondRowMentors = [
     {
       name: "Vikranth Udandarao",
-      image: "/lovable-uploads/05aa3fb4-ff74-4304-be65-061f8cf664a1.png",
+      image: "/lovable-uploads/c4bddbcb-915a-4963-908e-f9b81edb6da4.png",
       linkedin: "https://linkedin.com/in/vikranthudandarao"
     },
     {
       name: "Rudra Pratap Dash",
-      image: "/lovable-uploads/465fe7be-9424-4ffd-a914-29fbed833121.png",
+      image: "/lovable-uploads/fada214c-d4cb-47ae-836b-3b0102f35873.png",
       linkedin: "https://linkedin.com/in/rudrapratapdash"
     },
     {
       name: "Aishvi Guleria",
-      image: "/lovable-uploads/9d9263bf-dd08-4a03-a015-064c0734d786.png", // Using a placeholder since we don't have this image
+      image: "/lovable-uploads/77791c28-cf22-465b-a219-8f7358dfd247.png",
       linkedin: "https://linkedin.com/in/aishviguleria"
     },
     {
       name: "Pratham Batra",
-      image: "/lovable-uploads/ba157f27-f833-47b6-83f5-43ab08786ec6.png", // Using a placeholder since we don't have this image
+      image: "/lovable-uploads/8d7858a0-ce45-43a7-b23d-4448f0aee112.png",
       linkedin: "https://linkedin.com/in/prathambatra"
     }
   ];
@@ -52,22 +52,22 @@ const MentorsSection = () => {
   const thirdRowMentors = [
     {
       name: "Teeksha Harish",
-      image: "/lovable-uploads/4cf8ac8a-771d-438a-ba8b-2584a98bea22.png", // Using a placeholder since we don't have this image
+      image: "/lovable-uploads/91627645-a1e4-402d-ba12-ea11087730de.png",
       linkedin: "https://linkedin.com/in/teekshaharish"
     },
     {
       name: "Dhruv Bakshi",
-      image: "/lovable-uploads/5452a38a-b981-4cea-8fda-fef572dddf50.png", // Using a placeholder since we don't have this image
+      image: "/lovable-uploads/949ff3d8-04db-452e-a07c-75d90323c739.png",
       linkedin: "https://linkedin.com/in/dhruvbakshi"
     },
     {
       name: "Suhani Nagpal",
-      image: "/lovable-uploads/da954f7f-346d-4a39-ae17-908803fd3db2.png", // Using a placeholder since we don't have this image
+      image: "/lovable-uploads/82f58811-5e89-41b2-bf12-a744f2408375.png",
       linkedin: "https://linkedin.com/in/suhaninagpal"
     },
     {
       name: "Tanmay Arora",
-      image: "/lovable-uploads/1faf807e-c2c5-442d-8b93-970993007863.png", // Using a placeholder since we don't have this image
+      image: "/lovable-uploads/ca554fb5-7181-43ac-a403-417e74f9540c.png",
       linkedin: "https://linkedin.com/in/tanmayarora"
     }
   ];
@@ -75,7 +75,7 @@ const MentorsSection = () => {
   const fourthRowMentors = [
     {
       name: "Aditya Girdhar",
-      image: "/lovable-uploads/b607272d-8584-436b-af15-75fbc3c57e74.png", // Using a placeholder since we don't have this image
+      image: "/lovable-uploads/a12c5f43-5ddc-46d8-8f20-877afa3c2a11.png",
       linkedin: "https://linkedin.com/in/adityagirdhar"
     }
   ];

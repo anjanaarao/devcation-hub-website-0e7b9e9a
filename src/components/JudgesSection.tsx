@@ -6,17 +6,17 @@ const JudgesSection = () => {
   const judges = [
     {
       name: "Kartik Mathur",
-      image: "/lovable-uploads/9d9263bf-dd08-4a03-a015-064c0734d786.png",
+      image: "/lovable-uploads/650218db-9fd9-43e4-b8ea-596f4e4f79d0.png",
       linkedin: "https://linkedin.com/in/kartikmathur"
     },
     {
       name: "Vani Chitkara",
-      image: "/lovable-uploads/ba157f27-f833-47b6-83f5-43ab08786ec6.png",
+      image: "/lovable-uploads/ac69c31b-d628-44fe-8663-a941c7a063b5.png",
       linkedin: "https://linkedin.com/in/vanichitkara"
     },
     {
       name: "Aarnav Jindal",
-      image: "/lovable-uploads/4cf8ac8a-771d-438a-ba8b-2584a98bea22.png",
+      image: "/lovable-uploads/a238679c-e29c-4a03-9d7c-f54a900c24d5.png",
       linkedin: "https://linkedin.com/in/aarnavjindal"
     }
   ];
