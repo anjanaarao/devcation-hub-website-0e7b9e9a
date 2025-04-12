@@ -36,21 +36,21 @@ const FAQSection = () => {
     <div className="py-20 bg-google-darkblue">
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
-          <h2 className="section-title mb-4">Frequently Asked Questions</h2>
+          <h2 className="text-6xl font-bold text-[#4ecbff] mb-4">Frequently Asked Questions</h2>
           <div className="w-24 h-1 bg-gradient-to-r from-google-blue via-google-red to-google-yellow mx-auto"></div>
         </div>
         
         <div className="max-w-3xl mx-auto">
           {faqs.map((faq, index) => (
-            <div key={index} className="faq-item">
+            <div key={index} className="mb-4 rounded-lg overflow-hidden bg-white/5 backdrop-blur-sm border border-white/10">
               <button
                 className="w-full p-4 flex items-center justify-between text-left focus:outline-none"
                 onClick={() => toggleFAQ(index)}
               >
                 <span className="text-xl font-semibold text-white">{faq.question}</span>
                 {openIndex === index ? 
-                  <ChevronUp className="text-google-blue" /> : 
-                  <ChevronDown className="text-google-blue" />
+                  <ChevronUp className="text-[#4ecbff]" /> : 
+                  <ChevronDown className="text-[#4ecbff]" />
                 }
               </button>
               
@@ -63,7 +63,7 @@ const FAQSection = () => {
           ))}
         </div>
         
-        <div className="mt-16 flex justify-center space-x-8">
+        <div className="mt-16 flex flex-wrap justify-center gap-4">
           <a 
             href="https://discord.gg" 
             target="_blank" 

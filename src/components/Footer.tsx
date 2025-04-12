@@ -1,3 +1,4 @@
+
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { Instagram, Facebook, Linkedin, Twitter, Github } from 'lucide-react';
@@ -8,12 +9,12 @@ const Footer = () => {
       <div className="container mx-auto px-4">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
-            <h3 className="text-xl font-bold mb-4">Devcation'25</h3>
+            <h3 className="text-xl font-bold mb-4 text-[#4ecbff]">Devcation'25</h3>
             <p className="text-gray-300">A flagship hackathon organized by GDG IGDTUW, bringing together the brightest minds to innovate and create.</p>
           </div>
           
           <div>
-            <h3 className="text-xl font-bold mb-4">Quick Links</h3>
+            <h3 className="text-xl font-bold mb-4 text-[#4ecbff]">Quick Links</h3>
             <ul className="space-y-2">
               <li><Link to="/" className="text-gray-300 hover:text-white">Home</Link></li>
               <li><Link to="/about" className="text-gray-300 hover:text-white">About</Link></li>
@@ -24,7 +25,7 @@ const Footer = () => {
           </div>
           
           <div>
-            <h3 className="text-xl font-bold mb-4">More</h3>
+            <h3 className="text-xl font-bold mb-4 text-[#4ecbff]">More</h3>
             <ul className="space-y-2">
               <li><Link to="/tracks" className="text-gray-300 hover:text-white">Tracks</Link></li>
               <li><Link to="/judges" className="text-gray-300 hover:text-white">Judges</Link></li>
@@ -36,7 +37,7 @@ const Footer = () => {
           </div>
           
           <div>
-            <h3 className="text-xl font-bold mb-4">Connect With Us</h3>
+            <h3 className="text-xl font-bold mb-4 text-[#4ecbff]">Connect With Us</h3>
             <div className="flex space-x-4 mb-4">
               <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-white">
                 <Instagram size={24} />
@@ -55,7 +56,7 @@ const Footer = () => {
               </a>
             </div>
             <div className="mt-4">
-              <a href="#" className="bg-google-blue hover:bg-blue-600 text-white font-bold py-2 px-4 rounded inline-block transition-colors">Join Discord</a>
+              <a href="#" className="bg-[#4ecbff] hover:bg-blue-600 text-white font-bold py-2 px-4 rounded inline-block transition-colors">Join Discord</a>
             </div>
           </div>
         </div>

@@ -25,13 +25,13 @@ const JudgesSection = () => {
     <div className="py-20 bg-google-darkblue">
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
-          <h2 className="section-title mb-4">Judges</h2>
+          <h2 className="text-6xl font-bold text-[#4ecbff] mb-4">Judges</h2>
           <div className="w-24 h-1 bg-gradient-to-r from-google-blue via-google-red to-google-yellow mx-auto"></div>
         </div>
         
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-5xl mx-auto">
           {judges.map((judge, index) => (
-            <div key={index} className="team-member-card">
+            <div key={index} className="rounded-lg overflow-hidden bg-white/10 backdrop-blur-sm">
               <div className="h-80 overflow-hidden">
                 <img 
                   src={judge.image} 
@@ -39,7 +39,7 @@ const JudgesSection = () => {
                   className="w-full h-full object-cover"
                 />
               </div>
-              <div className="bg-blue-600 text-white p-4 flex items-center justify-between">
+              <div className="bg-[#4ecbff] text-white p-4 flex items-center justify-between">
                 <a 
                   href={judge.linkedin} 
                   target="_blank" 
